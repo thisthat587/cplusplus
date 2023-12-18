@@ -12,7 +12,7 @@ public:
     cout << "This is Outer class..." << endl;
     inner.InnerClassfun();
   }
-  
+
   class InnerClass
   {
   public:
