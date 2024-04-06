@@ -7,9 +7,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": false,
-      "cwd": "/home/piyush/Documents/GitHub/cplusplus",
-      "program": "/home/piyush/Documents/GitHub/cplusplus/build/Debug/outDebug",
+      "externalConsole": true,
+      "cwd": "c:/Users/Piyush singh/Documents/GitHub/cplusplus",
+      "program": "c:/Users/Piyush singh/Documents/GitHub/cplusplus/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
